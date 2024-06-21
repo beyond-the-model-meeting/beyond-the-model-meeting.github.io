@@ -1,0 +1,17 @@
+theme: jekyll-theme-cayman
+
+title: FOSD Meeting 2025
+subtitle: March, 2025, Anhalt University of Applied Sciences, Köthen, Germany
+description: Welcome to the Web site of the Meeting on Feature-Oriented Software Development 2018.
+
+repository: FOSD/FOSD2025
+url: https://fosd.github.io
+baseurl: /FOSD2025
+
+defaults:
+  - scope:
+      path: "pages"
+    values:
+      permalink: :basename
+
+exclude: [vendor/, Gemfile, Gemfile.lock, README.md]
