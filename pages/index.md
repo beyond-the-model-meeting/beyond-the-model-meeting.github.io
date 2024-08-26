@@ -13,7 +13,20 @@ The main objective is that researchers at different career stages (including und
 The format of an FOSD meeting consists of short presentations from each participant with plenty of time for discussion. Young researchers (graduate and undergraduate students), as well as more senior community members, present their research, provide and get feedback from others, engage into discussions and establish new collaborations. FOSD is a place for discussion, not a publication venue. Participants can present previously published work as well as unpublished work, including early ideas and work in progress. The key is to encourage discussions, to receive feedback and to grow the network of collaborating researchers.
 
 ## Important Dates
-TBD
+<table>
+  <tr>
+<td>Abstract Submission Deadline:</td><td>  December 4, 2024 </td>
+  </tr>
+  <tr>
+<td>Notification of acceptance:</td><td>    December 12, 2024 </td>
+  </tr>
+  <tr>
+<td>Registration Deadline:</td><td>  TBD (estimated: February 2025) </td>
+  </tr>
+  <tr>
+<td>FOSD meeting 2025:</td><td> March 25 -- 28, 2025</td>
+  </tr>
+</table>
 
 # Participants
 We are glad to have the following participants.
