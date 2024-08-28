@@ -50,7 +50,19 @@ Session: {{ session.from | date: "%R" }} - {{ session.to | date: "%R" }}, Chair:
 {% endfor %}
 
 # Venue & Travel Information
-Coming soon
+The FOSD Meeting 2025 will take place at the Anhalt University of Applied Sciences in Köthen, Germany.
+
+TODO: Venue information and images
+
+## Arrival by Train
+TODO: Way description from train station to venue/hotel. Maybe add some common train routes as well.
+
+## Arrival by Plane
+Since there is no airport in Köthen, we recommend that you book a flight to one of the airports below and find a connection by train.
+
+*Leipzig/Halle Airport* has regular flights to several major European cities. Arriving there, you can reach Köthen by train in around 30-40 minutes.
+
+*Frankfurt Airport* can also be reached from non-european countries. Taking the train to Köthen will take around 4,5 to 5 hours.
 
 # Contact
 For questions and abstract submissions, please send an email to <fosd25@hs-anhalt.de>.
