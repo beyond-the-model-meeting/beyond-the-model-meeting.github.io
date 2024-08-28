@@ -15,37 +15,25 @@ The format of an FOSD meeting consists of short presentations from each particip
 ## Important Dates
 <table>
   <tr>
-<td>Abstract Submission Deadline:</td><td>  December 4, 2024 </td>
+    <td>Abstract Submission Deadline</td>
+    <td>December 4, 2024 </td>
   </tr>
   <tr>
-<td>Notification of acceptance:</td><td>    December 12, 2024 </td>
+    <td>Notification of Acceptance</td>
+    <td>December 12, 2024 </td>
   </tr>
   <tr>
-<td>Registration Deadline:</td><td>  TBD (estimated: February 2025) </td>
+    <td>Registration Deadline</td>
+    <td>TBD (estimated: February 2025) </td>
   </tr>
   <tr>
-<td>FOSD meeting 2025:</td><td> March 25 -- 28, 2025</td>
+    <td>FOSD Meeting 2025</td>
+    <td>March 25 - 28, 2025</td>
   </tr>
 </table>
 
 # Participants
-We are glad to have the following participants.
-
-<table>
-  <tr>
-    <th>Name</th>
-    <th>Title</th>
-    <th>University</th>
-  </tr>
-  {% for item in site.data.participants %}
-  <tr>
-   <td width="20%">{{item.name}}</td>
-   <td width="70%">{{item.title}} {% if item.link != null %}<a href={{item.link}} target="_blank" >[slides]</a>{% endif %}</td>
-   <td width="10%">{{item.university}}</td>
-  </tr>
- {% endfor %}
-
-</table>
+TBD
 
 # Schedule
 TBD
@@ -62,10 +50,10 @@ Session: {{ session.from | date: "%R" }} - {{ session.to | date: "%R" }}, Chair:
 {% endfor %}
 
 # Venue & Travel Information
-TODO
+Coming soon
 
 # Contact
-TODO
+For questions and abstract submissions, please send an email to <fosd25@hs-anhalt.de>.
 
 ## Organizers
 - [Sandro Schulze](https://www.hs-anhalt.de/hochschule-anhalt/service/personenverzeichnis/person/prof-dr-sandro-schulze.html)
