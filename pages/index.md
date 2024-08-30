@@ -58,7 +58,7 @@ TODO: Venue information and images
 
 Köthen is located between Magdeburg and Leipzig, and thus, well-connected by regional as well as Intercity train:
 
-* From Leipzig Airport: ~35-50 minutes
+* from Leipzig Airport: ~35-50 minutes
 * from Halle (Saale): ~20-25 minutes
 * from Magdeburg: ~25-40 minutes
 * from Hanover: ~2 hours
@@ -68,9 +68,8 @@ Köthen is located between Magdeburg and Leipzig, and thus, well-connected by re
 ## Arrival by Plane
 Since there is no airport in Köthen, we recommend that you book a flight to one of the airports below and find a connection by train.
 
-*Leipzig/Halle Airport* has regular flights to several major European cities. Arriving there, you can reach Köthen by train in around 30-40 minutes.
-
-*Frankfurt Airport* can also be reached from non-european countries. Taking the train to Köthen will take around 4,5 to 5 hours.
+* Leipzig/Halle Airport has regular flights to several major European cities. Arriving there, you can reach Köthen by train in around 35-50 minutes.
+* Frankfurt Airport can also be reached from non-european countries. Taking the train to Köthen will take around 4,5 to 5 hours.
 
 # Contact
 For questions and abstract submissions, please send an email to <fosd25@hs-anhalt.de>.
