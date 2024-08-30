@@ -55,7 +55,15 @@ The FOSD Meeting 2025 will take place at the Anhalt University of Applied Scienc
 TODO: Venue information and images
 
 ## Arrival by Train
-TODO: Way description from train station to venue/hotel. Maybe add some common train routes as well.
+
+Köthen is located between Magdeburg and Leipzig, and thus, well-connected by regional as well as Intercity train:
+
+* From Leipzig Airport: ~35-50 minutes
+* from Halle (Saale): ~20-25 minutes
+* from Magdeburg: ~25-40 minutes
+* from Hanover: ~2 hours
+* from BER airport: ~2,5 hours
+* from Frankfurt/Main airport: ~ 4,5-5 hours
 
 ## Arrival by Plane
 Since there is no airport in Köthen, we recommend that you book a flight to one of the airports below and find a connection by train.
