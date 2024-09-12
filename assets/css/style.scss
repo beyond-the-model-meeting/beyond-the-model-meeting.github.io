@@ -20,10 +20,52 @@
 
 // Define the background image for the site header.
 .page-header {
-  background: #444444 url({{ "/assets/img/" | append: site.header_image | relative_url }})no-repeat center;
+  background: #444444 no-repeat center;
   background-size: cover;
+  position: relative;
 }
 
+// Add the logo image to the right of the header
+.page-header::after {
+  content: "";
+  position: absolute;
+  bottom: 10; 
+  right: 0;
+  width: 210px;
+  height: 210px;
+  background-image: url({{ "/assets/img/HSA_Logo_digital_RGB_1000px.jpg" | relative_url }});
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+// Responsive adjustments for different screen sizes
+@media (max-width: 1200px) {
+  .page-header::after {
+    width: 180px;
+    height: 180px;
+  }
+}
+
+@media (max-width: 992px) {
+  .page-header::after {
+    width: 150px;
+    height: 150px;
+  }
+}
+
+@media (max-width: 768px) {
+  .page-header::after {
+    width: 120px;
+    height: 120px;
+  }
+}
+
+@media (max-width: 576px) {
+  .page-header::after {
+    width: 90px;
+    height: 90px;
+  }
+}
 // Make name and tagline bigger.
 .project-name {
   margin-top: 0;

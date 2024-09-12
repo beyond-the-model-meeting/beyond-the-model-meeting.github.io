@@ -1,3 +1,4 @@
+
 # About
 The Meeting on Feature-Oriented Software Development (FOSD Meeting) is a yearly informal meeting to bring together the community of researchers working on feature-oriented software development, including, but not limited to:
 
@@ -53,6 +54,8 @@ Session: {{ session.from | date: "%R" }} - {{ session.to | date: "%R" }}, Chair:
 The FOSD Meeting 2025 will take place at the Anhalt University of Applied Sciences in Köthen, Germany.
 
 TODO: Venue information and images
+![Department02](/FOSD2025/assets/img/CS-department02.jpg)
+![Hall02](/FOSD2025/assets/img/lecture-hall02.jpg)
 
 ## Arrival by Train
 
