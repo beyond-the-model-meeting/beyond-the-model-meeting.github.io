@@ -54,6 +54,7 @@ Session: {{ session.from | date: "%R" }} - {{ session.to | date: "%R" }}, Chair:
 The FOSD Meeting 2025 will take place at the Anhalt University of Applied Sciences in Köthen, Germany.
 
 TODO: Venue information and images
+<iframe id="gmaps_iframe" src="https://www.google.com/maps/d/u/0/viewer?mid=1zgLgPVTlVTXBu35Tt8JQzorzVzY_6LM"></iframe>
 ![Department02](/FOSD2025/assets/img/CS-department02.jpg)
 ![Hall02](/FOSD2025/assets/img/lecture-hall02.jpg)
 
