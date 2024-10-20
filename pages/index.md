@@ -53,11 +53,19 @@ Session: {{ session.from | date: "%R" }} - {{ session.to | date: "%R" }}, Chair:
 # Venue & Travel Information
 The FOSD Meeting 2025 will take place at the Anhalt University of Applied Sciences in Köthen, Germany.
 
-TODO: Venue information and images
+Köthen (Anhalt) is a town in the federal state of Saxony-Anhalt with a population of around 26,000. Köthen is historically significant above all as the place where Johann Sebastian Bach worked, who was Kapellmeister at the court of Prince Leopold von Anhalt-Köthen from 1717 to 1723. Some of his most famous works were composed during this time, including the Brandenburg Concertos and parts of the Cello Suites.
+
+The town has a long history dating back to 1115, when it was first mentioned in a document. Köthen was once the capital of the Principality of Anhalt-Köthen. [Homeopathy also has a special influence in Köthen, as Samuel Hahnemann, the founder of homeopathy, lived and worked here]. Today, the town is a center for teaching and education, with the Anhalt University of Applied Sciences playing an important role. Architectural sights such as Köthen Castle and St. Jacob's Church bear witness to the town's rich history.
+
 <iframe id="gmaps_iframe" src="https://www.google.com/maps/d/embed?mid=1zgLgPVTlVTXBu35Tt8JQzorzVzY_6LM&ehbc=2E312F"></iframe>
 
+Anhalt University of Applied Sciences is the largest and one of the most important universities of applied sciences in Saxony-Anhalt. It is spread over three locations (Köthen, Bernburg, Dessau) and offers a wide range of practical courses in the fields of engineering, design, computer science, economics, agriculture and natural sciences. With around 7,500 students, the university attracts both national and international students who benefit from a modern and interdisciplinary education.
+
+In Köthen, the university concentrates primarily on technical and natural science fields, while in Bernburg the focus is on agriculture and ecology. Dessau is known for design and architecture, deeply rooted in the Bauhaus tradition. Research is a central component of Anhalt University of Applied Sciences, with innovative projects being promoted in cooperation with industry and other research institutions. The university attaches great importance to application-oriented research and offers numerous laboratories and facilities where students can gain practical experience. In addition, the university supports business start-ups and thus contributes to the regional industry and beyond.
+
 ![Department02](/FOSD2025/assets/img/CS-department02.jpg)
-![Hall02](/FOSD2025/assets/img/lecture-hall02.jpg)
+
+The FOSD meeting takes place at the Department of Computer Science and Languages, which is located in the venerable Ratke building, a building erected in 1885 and named after Wolfgang Ratke, a pioneer of the modern school system.
 
 ## Arrival by Train
 
@@ -66,7 +74,7 @@ Köthen is located between Magdeburg and Leipzig, and thus, well-connected by re
 * from Leipzig Airport: ~35-50 minutes
 * from Halle (Saale): ~20-25 minutes
 * from Magdeburg: ~25-40 minutes
-* from Hanover: ~2 hours
+* from Hannover: ~2 hours
 * from BER airport: ~2,5 hours
 * from Frankfurt/Main airport: ~ 4,5-5 hours
 
