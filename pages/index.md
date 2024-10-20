@@ -1,3 +1,4 @@
+
 # About
 The Meeting on Feature-Oriented Software Development (FOSD Meeting) is a yearly informal meeting to bring together the community of researchers working on feature-oriented software development, including, but not limited to:
 
@@ -50,7 +51,30 @@ Session: {{ session.from | date: "%R" }} - {{ session.to | date: "%R" }}, Chair:
 {% endfor %}
 
 # Venue & Travel Information
-Coming soon
+The FOSD Meeting 2025 will take place at the Anhalt University of Applied Sciences in Köthen, Germany.
+
+TODO: Venue information and images
+<iframe id="gmaps_iframe" src="https://www.google.com/maps/d/embed?mid=1zgLgPVTlVTXBu35Tt8JQzorzVzY_6LM&ehbc=2E312F"></iframe>
+
+![Department02](/FOSD2025/assets/img/CS-department02.jpg)
+![Hall02](/FOSD2025/assets/img/lecture-hall02.jpg)
+
+## Arrival by Train
+
+Köthen is located between Magdeburg and Leipzig, and thus, well-connected by regional as well as Intercity train:
+
+* from Leipzig Airport: ~35-50 minutes
+* from Halle (Saale): ~20-25 minutes
+* from Magdeburg: ~25-40 minutes
+* from Hanover: ~2 hours
+* from BER airport: ~2,5 hours
+* from Frankfurt/Main airport: ~ 4,5-5 hours
+
+## Arrival by Plane
+Since there is no airport in Köthen, we recommend that you book a flight to one of the airports below and find a connection by train.
+
+* Leipzig/Halle Airport has regular flights to several major European cities. Arriving there, you can reach Köthen by train in around 35-50 minutes.
+* Frankfurt Airport can also be reached from non-european countries. Taking the train to Köthen will take around 4,5 to 5 hours.
 
 # Contact
 For questions and abstract submissions, please send an email to <fosd25@hs-anhalt.de>.
