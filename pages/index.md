@@ -21,7 +21,7 @@ The format of an FOSD meeting consists of short presentations from each particip
   </tr>
   <tr>
     <td>Notification of Acceptance</td>
-    <td>December 12, 2024 </td>
+    <td>December 16, 2024 </td>
   </tr>
   <tr>
     <td>Registration Deadline</td>
