@@ -34,7 +34,21 @@ The format of an FOSD meeting consists of short presentations from each particip
 </table>
 
 # Participants
-TBD
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Title</th>
+    <th>University</th>
+  </tr>
+  {% for item in site.data.participants %}
+  <tr>
+   <td width="20%">{{item.name}}</td>
+   <td width="60%">{{item.title}} {% if item.link != null %}<a href={{item.link}} target="_blank" >[slides]</a>{% endif %}</td>
+   <td width="20%">{{item.university}}</td>
+  </tr>
+ {% endfor %}
+
+</table>
 
 # Schedule
 TBD
