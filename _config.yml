@@ -7,7 +7,7 @@ description: Welcome to the Web site of the Beyond the Model Meeting 2025.
 
 repository: beyond-the-model-meeting/beyond-the-model-meeting.github.io
 url: https://beyond-the-model-meeting.github.io
-baseurl: /BTMM2025
+baseurl: /beyond-the-model-meeting.github.io
 
 defaults:
   - scope:
