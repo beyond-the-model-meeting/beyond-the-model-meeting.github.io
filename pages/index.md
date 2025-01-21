@@ -1,13 +1,13 @@
 # About
-The Beyond the Model Meeting (BTMM) is an informal gathering focused on software engineering for building applications with machine-learning components. The meeting aims to foster collaboration and exchange ideas among researchers working on various aspects of integrating ML components into software systems. Topics of interest include, but are not limited to:
+The **Beyond the Model Meeting (BTMM)** is an informal gathering focused on software engineering for building applications with machine-learning components. The meeting aims to foster collaboration and exchange ideas among researchers working on various aspects of integrating ML components into software systems. Topics of interest include, but are not limited to:
 
-- Process and requirements
-- User-interaction design
-- Quality assurance and safety engineering
-- Operations
-- Regulatory oversight
+- Process and requirements for ML-powered systems
+- User-interaction design for ML-powered systems
+- Quality assurance and safety engineering for ML-powered systems
+- Operations for ML-powered systems
+- Regulatory oversight for ML-powered systems
 
-The meeting is modeled after the Feature-Oriented Software Development (FOSD) meetings. It features a supportive environment where participants present their research, receive feedback, and engage in discussions. The primary objective is to bring together researchers at different career stages, including undergraduate and early-career graduate students, to share ideas and initiate collaborations.
+The meeting is modeled after the [Feature-Oriented Software Development (FOSD)](https://fosd.github.io/FOSD2025/) meetings. It features a supportive environment where participants present their research, receive feedback, and engage in discussions. The primary objective is to bring together researchers at different career stages, including undergraduate and early-career graduate students, to share ideas and initiate collaborations.
 
 **Note:** This meeting is not a publication venue. Participants can present previously published work or work in progress, with an emphasis on fostering discussions and collaborations rather than producing proceedings.
 
@@ -52,7 +52,12 @@ The meeting consists of short presentations (10-15 minutes) from each participan
 
 No registration fees are required. Participants only need to submit a title and abstract for their talk.
 
-# Participants
+# Attending / Registration
+We ask all interested participants to submit a talk abstract. We will accept at most 20 participants. We will usually confirm participation within 1 week, first come first serve. We reserve the right to decline talks that we consider as out of scope or if we run out of capacity to host more talks.
+
+If you cannot make it after all or want to talk about something else, please email us as soon as possible.
+
+## Participants
 TBD
 
 <!-- <table>
@@ -70,6 +75,9 @@ TBD
  {% endfor %}
 
 </table> -->
+
+## Cost
+If you ware willing to pay an optional registration fee to support the workshop, please contact the organizers.
 
 # Schedule
 TBD
