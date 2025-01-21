@@ -1,4 +1,4 @@
-Welcome to the Web site of the Feature Oriented Software Development (FOSD) Meeting 2025.
+Welcome to the Web site of the Beyond the Model Meeting (BTMM) Meeting 2025.
 
 #### Technology
 This website is developed using the [Jekyll](https://jekyllrb.com/) static site generator and hosted using [GitHub Pages](https://pages.github.com/). 
