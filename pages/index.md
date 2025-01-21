@@ -44,9 +44,12 @@ The meeting consists of short presentations (10-15 minutes) from each participan
 
 
 # Attending / Registration
-We ask all interested participants to submit a talk abstract. We will accept at most 20 participants. We will usually confirm participation within 1 week of abstract submission, first come first serve. We reserve the right to decline talks that we consider as out of scope or if we run out of capacity to host more talks.
 
-Once the abstract is accepted, no additional registration is required. If you would like to volunteer to sponsor the event by paying an optional registration fee, please contact the organizers.
+[Abstract Submissions](https://forms.gle/gCxzvzfKJe2PQVM27)
+
+We ask all interested participants to submit a talk abstract through the form above. We will accept at most 20 participants. We will usually confirm participation within 1 week of abstract submission, first come first serve. We reserve the right to decline talks that we consider as out of scope or if we run out of capacity to host more talks.
+
+Once the abstract is accepted, no additional registration is required. If you would be willing to volunteer to sponsor the event by paying an optional registration fee, please contact the organizers.
 
 If you cannot make it after all or want to talk about something else, please email us as soon as possible.
 
