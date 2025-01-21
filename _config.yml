@@ -4,9 +4,9 @@ title: BTMM 2025
 subtitle: May 4 - 5, 2025, University of Toronto, Toronto, Canada
 description: Welcome to the Web site of the Beyond the Model Meeting 2025.
 
-repository: FOSD/FOSD2025
-url: https://fosd.github.io
-baseurl: /FOSD2025
+repository: beyond-the-model-meeting/beyond-the-model-meeting.github.io
+url: https://beyond-the-model-meeting.github.io
+baseurl: /BTMM2025
 
 defaults:
   - scope:
