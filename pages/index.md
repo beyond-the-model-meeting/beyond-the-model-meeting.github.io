@@ -118,6 +118,18 @@ BTMM 2025 will take place at University of Toronto, Canada.
 
 - [Airbnb around campus](https://www.airbnb.ca/s/University-of-Toronto--Toronto--Ontario--Canada/homes?refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2025-02-01&monthly_length=3&monthly_end_date=2025-05-01&price_filter_input_type=0&channel=EXPLORE&query=University%20of%20Toronto%2C%20Toronto%2C%20ON&place_id=ChIJq_9ZrL80K4gRjkgaYCMz9ok&location_bb=Qi6sxcKex%2B9CLqA9wp7Siw%3D%3D&date_picker_type=calendar&checkin=2025-05-03&checkout=2025-05-05&adults=1&source=structured_search_input_header&search_type=autocomplete_click)
 
+## Food Recommendations
+
+- [Food on campus](https://foodservices.utoronto.ca/where-to-eat/)
+- [Coffee near Bahen Centre (BA)](https://www.google.com/maps/search/coffee/@43.6598042,-79.3998729,16z/data=!3m1!4b1![…]3.6598045?entry=ttu&g_ep=EgoyMDI1MDEyMC4wIKXMDSoASAFQAw%3D%3D)
+- Quick lunch options
+  - [The Arbor Room (Gluten-Friendly, Vegetarian, Vegan. Address: 7 Hart House Cir)](https://harthouse.ca/arbor-room), 5 min walk
+  - [Mi’hito Sushi Laboratory](https://maps.app.goo.gl/xhn9BmJpAcCSJPA37), 10min walk
+  - [Fresca Pizza and Pasta](https://maps.app.goo.gl/Jg4DVAFoVKHBzbRt7), 10min walk
+- Dinner
+  - [Prenup Pub](https://maps.app.goo.gl/iKWDS6ZJayfgtqyJ7)
+  - [Mercatto](https://maps.app.goo.gl/oQVAGpJ4V33ARMDp6)
+
 # Contact
 For questions or further information, please contact us at <email-here>.
 
