@@ -20,7 +20,7 @@
 
 // Define the background image for the site header.
 .page-header {
-  background: #444444 no-repeat center;
+  background: #1E3765 no-repeat center;
   background-size: cover;
   position: relative;
 }
@@ -31,9 +31,9 @@
   position: absolute;
   bottom: 10; 
   right: 0;
-  width: 210px;
-  height: 210px;
-  background-image: url({{ "/assets/img/HSA_Logo_digital_RGB_1000px.jpg" | relative_url }});
+  width: 220px;
+  height: 220px;
+  background-image: url({{ "/assets/img/UofTlogo.png" | relative_url }});
   background-size: contain;
   background-repeat: no-repeat;
 }
