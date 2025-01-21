@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
+markdown: kramdown
 
 title: BTMM 2025
 subtitle: May 4 - 5, 2025, University of Toronto, Toronto, Canada
