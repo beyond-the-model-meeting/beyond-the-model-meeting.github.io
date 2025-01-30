@@ -27,18 +27,10 @@ The following are **out of scope**:
 <table>
   <tr>
     <td>Abstract Submission Deadline</td>
-    <td>TBD </td>
+    <td>Recommended by Feb 17, but accepted on a rolling basis until all slots are taken</td>
   </tr>
   <tr>
-    <td>Notification of Acceptance</td>
-    <td>TBD </td>
-  </tr>
-  <tr>
-    <td>Registration Deadline</td>
-    <td>TBD (estimated: February 2025) </td>
-  </tr>
-  <tr>
-    <td>BTMM Meeting 2025</td>
+    <td>Beyond-the-Model Meeting 2025</td>
     <td>May 4 - 5, 2025</td>
   </tr>
 </table>
@@ -50,10 +42,14 @@ The meeting consists of short presentations (10-15 minutes) from each participan
 - Ongoing projects
 - Published work
 
-No registration fees are required. Participants only need to submit a title and abstract for their talk.
 
 # Attending / Registration
-We ask all interested participants to submit a talk abstract. We will accept at most 20 participants. We will usually confirm participation within 1 week, first come first serve. We reserve the right to decline talks that we consider as out of scope or if we run out of capacity to host more talks.
+
+[Abstract Submissions](https://forms.gle/gCxzvzfKJe2PQVM27)
+
+We ask all interested participants to submit a talk abstract through the form above. We will accept at most 20 participants. We will usually confirm participation within 1 week of abstract submission, first come first serve. We reserve the right to decline talks that we consider as out of scope or if we run out of capacity to host more talks.
+
+Once the abstract is accepted, no additional registration is required. If you would be willing to volunteer to sponsor the event by paying an optional registration fee, please contact the organizers.
 
 If you cannot make it after all or want to talk about something else, please email us as soon as possible.
 
@@ -77,9 +73,6 @@ If you cannot make it after all or want to talk about something else, please ema
 
 </table>
 
-## Cost
-If you ware willing to pay an optional registration fee to support the workshop, please contact the organizers.
-
 # Schedule
 TBD
 
@@ -101,7 +94,9 @@ BTMM 2025 will take place at University of Toronto, Canada.
 ## Accommodation and Costs
 - No registration fees.
 - Participants cover their own transportation, accommodation, and meals.
-- Sponsorships may cover group lunches and dinners.
+- Sponsorships may cover group lunches or dinners, tbd.
+
+(If you would like to volunteer to sponsor the event by paying an optional registration fee, please contact the organizers.)
 
 ## Hotel Recommendations
 
@@ -124,7 +119,7 @@ BTMM 2025 will take place at University of Toronto, Canada.
 - [Food on campus](https://foodservices.utoronto.ca/where-to-eat/)
 - [Coffee near Bahen Centre (BA)](https://www.google.com/maps/search/coffee/@43.6598042,-79.3998729,16z/data=!3m1!4b1![…]3.6598045?entry=ttu&g_ep=EgoyMDI1MDEyMC4wIKXMDSoASAFQAw%3D%3D)
 - Quick lunch options
-  - [The Arbor Room (Gluten-Friendly, Vegetarian, Vegan. Address: 7 Hart House Cir)](https://harthouse.ca/arbor-room), 5 min walk
+  - [The Arbor Room](https://harthouse.ca/arbor-room) (Gluten-Friendly, Vegetarian, Vegan. Address: 7 Hart House Cir), 5 min walk
   - [Mi’hito Sushi Laboratory](https://maps.app.goo.gl/xhn9BmJpAcCSJPA37), 10min walk
   - [Fresca Pizza and Pasta](https://maps.app.goo.gl/Jg4DVAFoVKHBzbRt7), 10min walk
 - Dinner
