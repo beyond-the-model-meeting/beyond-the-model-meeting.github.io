@@ -58,9 +58,10 @@ We ask all interested participants to submit a talk abstract. We will accept at 
 If you cannot make it after all or want to talk about something else, please email us as soon as possible.
 
 ## Participants
-TBD
 
-<!-- <table>
+(In alphabetical order)
+
+<table>
   <tr>
     <th>Name</th>
     <th>Title</th>
@@ -74,7 +75,7 @@ TBD
   </tr>
  {% endfor %}
 
-</table> -->
+</table>
 
 ## Cost
 If you ware willing to pay an optional registration fee to support the workshop, please contact the organizers.

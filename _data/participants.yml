@@ -1,3 +1,27 @@
+- name: Scott Barnett
+  title: "Optimising the evaluation and architecture of LLM applications"
+  university: Deakin University
+
+- name: Luís Cruz
+  title: "Greening AI with Software Engineering - Next Steps"
+  university: Delft University of Technology
+
+- name: Kimberly Hau
+  title: "LLMs in Mobile Apps: Practices, Challenges, and Opportunities"
+  university: University of Toronto
+
+- name: Jennifer Horkoff 
+  title: "Requirements Engineering for Systems with AI/ML: NFRs, Data, and Scoping of Complex Systems"
+  university: University of Gothenburg and Chalmers
+
+- name: Christian Kästner
+  title: Shaping Practices, Tools, and Norms for Explainable ML-Powered Applications
+  university: Carnegie Mellon University
+
+- name: Igor Steinmacher
+  title: "Enhancing ML End-User Programming: An LLM-Based Agent for Scientific Notebooks"
+  university: Northern Arizona University
+
 - name: Chenyang Yang
-  title: TBD
+  title: Requirements-thinking for Building LLM Applications
   university: Carnegie Mellon University
