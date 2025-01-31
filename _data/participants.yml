@@ -6,6 +6,10 @@
   title: "Greening AI with Software Engineering - Next Steps"
   university: Delft University of Technology
 
+- name: Jin Guo
+  title: "Contestability during the AI software development"
+  university: McGill University
+
 - name: Kimberly Hau
   title: "LLMs in Mobile Apps: Practices, Challenges, and Opportunities"
   university: University of Toronto
@@ -13,6 +17,10 @@
 - name: Jennifer Horkoff 
   title: "Requirements Engineering for Systems with AI/ML: NFRs, Data, and Scoping of Complex Systems"
   university: University of Gothenburg and Chalmers
+
+- name: Tayana Conte & Marcia Lima
+  title: "Teaching Requirements Engineering for AI: A Goal-Oriented Approach in Software Engineering Courses"
+  university: UFAM (Federal University of Amazonas)
 
 - name: Christian Kästner
   title: Shaping Practices, Tools, and Norms for Explainable ML-Powered Applications
