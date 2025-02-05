@@ -4,11 +4,15 @@
 
 - name: Tayana Conte
   title: "Teaching Requirements Engineering for AI: A Goal-Oriented Approach in Software Engineering Courses"
-  university: UFAM (Federal University of Amazonas)
+  university: Federal University of Amazonas (UFAM)
 
 - name: Luís Cruz
   title: "Greening AI with Software Engineering - Next Steps"
   university: Delft University of Technology
+
+- name: Bruno Gadelha
+  title: "Developing LLM-based systems: an user-centered design approach"
+  university: Federal University of Amazonas (UFAM)
 
 - name: Jin Guo
   title: "Contestability during the AI software development"
@@ -26,9 +30,17 @@
   title: Shaping Practices, Tools, and Norms for Explainable ML-Powered Applications
   university: Carnegie Mellon University
 
+- name: Shalaleh Rismani
+  title: "System Safety for AI: Modeling Hazards in Machine Learning-Driven Software Systems"
+  university: McGill University, Mila
+
 - name: Igor Steinmacher
   title: "Enhancing ML End-User Programming: An LLM-Based Agent for Scientific Notebooks"
   university: Northern Arizona University
+
+- name: Veronica Xia
+  title: "From Contestation to Contestability: Challenging AI Systems Throughout Development"
+  university: McGill University
 
 - name: Chenyang Yang
   title: Requirements-thinking for Building LLM Applications
