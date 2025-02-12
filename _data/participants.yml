@@ -22,12 +22,20 @@
   title: "LLMs in Mobile Apps: Practices, Challenges, and Opportunities"
   university: University of Toronto
 
+- name: Yining Hong
+  title: "Monitors for Managing Less-Critical Safety Issues in ML-Powered Applications"
+  university: Carnegie Mellon University
+
 - name: Jennifer Horkoff 
   title: "Requirements Engineering for Systems with AI/ML: NFRs, Data, and Scoping of Complex Systems"
   university: University of Gothenburg and Chalmers
 
 - name: Christian Kästner
   title: Shaping Practices, Tools, and Norms for Explainable ML-Powered Applications
+  university: Carnegie Mellon University
+
+- name: Nadia Nahar
+  title: "Assisting Interdisciplinary Negotiation of Model Requirements"
   university: Carnegie Mellon University
 
 - name: Shalaleh Rismani
