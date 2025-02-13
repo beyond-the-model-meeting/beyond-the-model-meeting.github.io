@@ -42,6 +42,10 @@
   title: "System Safety for AI: Modeling Hazards in Machine Learning-Driven Software Systems"
   university: McGill University, Mila
 
+- name: Yining She
+  title: "Enhancing LLM Agent Safety Through Robust Toolkit Design"
+  university: Carnegie Mellon University
+
 - name: Igor Steinmacher
   title: "Enhancing ML End-User Programming: An LLM-Based Agent for Scientific Notebooks"
   university: Northern Arizona University
