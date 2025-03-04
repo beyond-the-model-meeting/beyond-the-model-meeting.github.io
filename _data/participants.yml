@@ -38,6 +38,10 @@
   title: "Requirements Engineering for Systems with AI/ML: NFRs, Data, and Scoping of Complex Systems"
   university: University of Gothenburg and Chalmers
 
+- name: Andreas Jedlitschka
+  title: "Uncertainty Wrapper for GenAI"
+  university: Fraunhofer IESE
+
 - name: Christian Kästner
   title: Shaping Practices, Tools, and Norms for Explainable ML-Powered Applications
   university: Carnegie Mellon University
