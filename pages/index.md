@@ -90,6 +90,11 @@ Session: {{ session.from | date: "%R" }} - {{ session.to | date: "%R" }}, Chair:
 # Venue & Travel Information
 BTMM 2025 will take place at University of Toronto, Canada.
 
+## Meeting Location
+
+- Building: Bahen Centre for Information Technology (BA)
+- Room: BA7180
+- Address: 40 St George St, Toronto, ON M5S 2E4
 
 ## Accommodation and Costs
 - No registration fees.
