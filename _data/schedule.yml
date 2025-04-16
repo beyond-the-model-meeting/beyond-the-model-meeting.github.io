@@ -1,0 +1,99 @@
+- day: 2025-05-04
+  address: TBD
+  sessions:
+    - from: "09:45"
+      to: "10:00"
+      name: "Welcome and introductions"
+      talks: []
+    - from: "10:00"
+      to: "11:30"
+      name: "Session 1: Requirements Engineering for AI"
+      talks:
+        - speaking: "Jennifer Horkoff"
+          title: "Requirements Engineering for Systems with AI/ML: NFRs, Data, and Scoping of Complex Systems"
+        - speaking: "Vincenzo De Martino"
+          title: "Teaching Non-Functional Requirements in MLOps in Higher Education through Project-Based Learning"
+        - speaking: "Tayana Conte"
+          title: "Teaching Requirements Engineering for AI: A Goal-Oriented Approach in Software Engineering Courses"
+    - from: "11:30"
+      to: "13:00"
+      name: "Lunch"
+      talks: []
+    - from: "13:00"
+      to: "14:30"
+      name: "Session 2: LLM Applications & Architecture"
+      talks:
+        - speaking: "Bruno Gadelha"
+          title: "Developing LLM-based systems: an user-centered design approach"
+        - speaking: "Chenyang Yang"
+          title: "Requirements-thinking for Building LLM Applications"
+        - speaking: "Scott Barnett"
+          title: "Optimising the evaluation and architecture of LLM applications"
+    - from: "15:00"
+      to: "16:00"
+      name: "Session 3: AI Safety"
+      talks:
+        - speaking: "Shalaleh Rismani"
+          title: "System Safety for AI: Modeling Hazards in Machine Learning-Driven Software Systems"
+        - speaking: "Yining Hong"
+          title: "Monitors for Managing Less-Critical Safety Issues in ML-Powered Applications"
+    - from: "16:15"
+      to: "17:15"
+      name: "Session 4: ML Applications"
+      talks:
+        - speaking: "Veronica Xia"
+          title: "From Contestation to Contestability: Challenging AI Systems Throughout Development"
+        - speaking: "Shurui Zhou"
+          title: "Can We Do Better with What We Have Done? Unveiling the Potential of ML Pipeline in Notebooks"
+    - from: "18:00"
+      to: "20:00"
+      name: "Dinner"
+      talks: []
+
+- day: 2025-05-05
+  address: TBD
+  sessions:
+    - from: "09:30"
+      to: "10:30"
+      name: "Session 5: ML Software Engineering Practices"
+      talks:
+        - speaking: "Daniel Feitosa"
+          title: "What Technical Debt do developers discuss in ML-enabled Software Products?"
+        - speaking: "Nadia Nahar"
+          title: "Assisting Interdisciplinary Negotiation of Model Requirements"
+    - from: "11:00"
+      to: "12:00"
+      name: "Session 6: Explainability & Contestation"
+      talks:
+        - speaking: "Christian Kästner"
+          title: "Shaping Practices, Tools, and Norms for Explainable ML-Powered Applications"
+        - speaking: "Jin Guo"
+          title: "Contestability during the AI software development"
+    - from: "12:00"
+      to: "13:30"
+      name: "Lunch"
+      talks: []
+    - from: "13:30"
+      to: "14:30"
+      name: "Session 7: Sustainable and Mobile ML"
+      talks:
+        - speaking: "Kimberly Hau"
+          title: "LLMs in Mobile Apps: Practices, Challenges, and Opportunities"
+        - speaking: "Luís Cruz"
+          title: "Greening AI with Software Engineering - Next Steps"
+    - from: "14:45"
+      to: "15:45"
+      name: "Session 8: AI Safety (II)"
+      talks:
+        - speaking: "Andreas Jedlitschka"
+          title: "Uncertainty Wrapper for GenAI"
+        - speaking: "Yining She"
+          title: "Enhancing LLM Agent Safety Through Robust Toolkit Design"
+    - from: "15:45"
+      to: "16:00"
+      name: "Closing"
+      talks: []
+    - from: "16:00"
+      to: "18:00"
+      name: "Social Activities"
+      talks: []

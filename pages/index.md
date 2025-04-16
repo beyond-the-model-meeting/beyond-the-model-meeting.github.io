@@ -74,13 +74,11 @@ If you cannot make it after all or want to talk about something else, please ema
 </table>
 
 # Schedule
-TBD
 
 {% for conf_day in site.data.schedule %}
-### Schedule {{ conf_day.day | date: "%A, %b %e" }}
-Address: **{{conf_day.address}}**
+## Schedule {{ conf_day.day | date: "%A, %b %e" }}
 {% for session in conf_day.sessions %}
-Session: {{ session.from | date: "%R" }} - {{ session.to | date: "%R" }}, Chair: {{ session.chair }} 
+### {{ session.name }}: {{ session.from | date: "%R" }} - {{ session.to | date: "%R" }}
 {% for talk in session.talks %}
 * **{{ talk.speaking }}**: {{ talk.title }}
 {% endfor %}
