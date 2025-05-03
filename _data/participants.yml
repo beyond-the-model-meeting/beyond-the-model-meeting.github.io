@@ -55,7 +55,7 @@
   university: McGill University, Mila
 
 - name: Yining She
-  title: "Enhancing LLM Agent Safety Through Robust Toolkit Design"
+  title: "Safeguarding LLM Agent Action through Provenance Identification"
   university: Carnegie Mellon University
 
 - name: Veronica Xia
@@ -63,7 +63,7 @@
   university: McGill University
 
 - name: Chenyang Yang
-  title: Requirements-thinking for Building LLM Applications
+  title: What to Engineer in Prompts? An Analysis on Prompt Underspecification
   university: Carnegie Mellon University
 
 - name: Shurui Zhou

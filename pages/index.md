@@ -121,16 +121,13 @@ BTMM 2025 will take place at University of Toronto, Canada.
 
 - [Food on campus](https://foodservices.utoronto.ca/where-to-eat/)
 - [Coffee near Bahen Centre (BA)](https://www.google.com/maps/search/coffee/@43.6598042,-79.3998729,16z/data=!3m1!4b1![…]3.6598045?entry=ttu&g_ep=EgoyMDI1MDEyMC4wIKXMDSoASAFQAw%3D%3D)
-- Quick lunch options
-  - [The Arbor Room](https://harthouse.ca/arbor-room) (Gluten-Friendly, Vegetarian, Vegan. Address: 7 Hart House Cir), 5 min walk
-  - [Mi’hito Sushi Laboratory](https://maps.app.goo.gl/xhn9BmJpAcCSJPA37), 10min walk
-  - [Fresca Pizza and Pasta](https://maps.app.goo.gl/Jg4DVAFoVKHBzbRt7), 10min walk
 - Dinner
+  - [DZÔ VIET EATERY](https://www.dzovieteatery.com/)
   - [Prenup Pub](https://maps.app.goo.gl/iKWDS6ZJayfgtqyJ7)
   - [Mercatto](https://maps.app.goo.gl/oQVAGpJ4V33ARMDp6)
 
-# Contact
-For questions or further information, please contact us at <email-here>.
+<!-- # Contact
+For questions or further information, please contact us at <email-here>. -->
 
 ## Organizers
 - [Christian Kästner](https://www.cs.cmu.edu/~ckaestne/)
