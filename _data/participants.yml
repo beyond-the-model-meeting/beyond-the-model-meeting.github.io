@@ -46,6 +46,11 @@
   university: University of Gothenburg and Chalmers
   homelink: https://www.cs.utoronto.ca/~jenhork/
 
+- name: Pooyan Jamshidi Dermani
+  title: "Reconciling Accuracy, Cost, and Latency of Inference Serving Systems"
+  university: University of South Carolina
+  homelink: https://pooyanjamshidi.github.io/
+
 - name: Andreas Jedlitschka
   title: "Uncertainty Wrapper for GenAI"
   university: Fraunhofer IESE
