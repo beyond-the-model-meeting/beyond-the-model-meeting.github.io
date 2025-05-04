@@ -65,9 +65,21 @@ If you cannot make it after all or want to talk about something else, please ema
   </tr>
   {% for item in site.data.participants %}
   <tr>
-   <td width="20%">{{item.name}}</td>
-   <td width="60%">{{item.title}} {% if item.link != null %}<a href={{item.link}} target="_blank" >[slides]</a>{% endif %}</td>
-   <td width="20%">{{item.university}}</td>
+    <td width="20%">
+      {% if item.homelink %}
+        <a href="{{ item.homelink }}" target="_blank">{{ item.name }} </a>
+      {% else %}
+        {{ item.name }} 
+      {% endif %}
+    </td>
+    <td width="60%">
+      {% if item.link %}
+        <a href="{{ item.link }}" target="_blank">{{ item.title }} </a>
+      {% else %}
+        {{ item.title }} 
+      {% endif %}
+    </td>
+    <td width="20%">{{item.university}}</td>
   </tr>
  {% endfor %}
 

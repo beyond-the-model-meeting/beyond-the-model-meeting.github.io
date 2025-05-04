@@ -1,22 +1,27 @@
 - name: Scott Barnett
   title: "Optimising the evaluation and architecture of LLM applications"
   university: Deakin University
+  homelink: https://experts.deakin.edu.au/42177-scott-barnett
 
 - name: Tayana Conte
   title: "Teaching Requirements Engineering for AI: A Goal-Oriented Approach in Software Engineering Courses"
   university: Federal University of Amazonas (UFAM)
+  homelink: https://numeros.icomp.ufam.edu.br/tayana
 
 - name: Luís Cruz
   title: "Greening AI with Software Engineering - Next Steps"
   university: Delft University of Technology
+  homelink: https://luiscruz.github.io/
 
 - name: Vincenzo De Martino
   title: "Teaching Non-Functional Requirements in MLOps in Higher Education through Project-Based Learning"
   university: University of Salerno
+  homelink: https://kenz097.github.io/
 
 - name: Daniel Feitosa
   title: "What Technical Debt do developers discuss in ML-enabled Software Products?"
   university: University of Groningen
+  homelink: https://feitosa-daniel.github.io/
 
 - name: Bruno Gadelha
   title: "Developing LLM-based systems: an user-centered design approach"
@@ -25,6 +30,7 @@
 - name: Jin Guo
   title: "Contestability during the AI software development"
   university: McGill University
+  homelink: https://www.cs.mcgill.ca/~jguo/
 
 - name: Kimberly Hau
   title: "LLMs in Mobile Apps: Practices, Challenges, and Opportunities"
@@ -33,30 +39,37 @@
 - name: Yining Hong
   title: "Monitors for Managing Less-Critical Safety Issues in ML-Powered Applications"
   university: Carnegie Mellon University
+  homelink: https://hyn0027.github.io/
 
 - name: Jennifer Horkoff 
   title: "Requirements Engineering for Systems with AI/ML: NFRs, Data, and Scoping of Complex Systems"
   university: University of Gothenburg and Chalmers
+  homelink: https://www.cs.utoronto.ca/~jenhork/
 
 - name: Andreas Jedlitschka
   title: "Uncertainty Wrapper for GenAI"
   university: Fraunhofer IESE
+  homelink: https://jedlitschkas.de/
 
 - name: Christian Kästner
   title: Shaping Practices, Tools, and Norms for Explainable ML-Powered Applications
   university: Carnegie Mellon University
+  homelink: https://www.cs.cmu.edu/~ckaestne/
 
 - name: Nadia Nahar
   title: "Assisting Interdisciplinary Negotiation of Model Requirements"
   university: Carnegie Mellon University
+  homelink: https://nadianahar.me/
 
 - name: Shalaleh Rismani
   title: "System Safety for AI: Modeling Hazards in Machine Learning-Driven Software Systems"
   university: McGill University, Mila
+  homelink: https://shalalehrismani.com/
 
 - name: Yining She
   title: "Safeguarding LLM Agent Action through Provenance Identification"
   university: Carnegie Mellon University
+  homelink: https://sheyining.github.io/
 
 - name: Veronica Xia
   title: "From Contestation to Contestability: Challenging AI Systems Throughout Development"
@@ -65,7 +78,9 @@
 - name: Chenyang Yang
   title: What to Engineer in Prompts? An Analysis on Prompt Underspecification
   university: Carnegie Mellon University
+  homelink: https://www.cs.cmu.edu/~cyang3/
 
 - name: Shurui Zhou
   title: "Can We Do Better with What We Have Done? Unveiling the Potential of ML Pipeline in Notebooks"
   university: University of Toronto
+  homelink: http://www.eecg.toronto.edu/~shuruiz/
