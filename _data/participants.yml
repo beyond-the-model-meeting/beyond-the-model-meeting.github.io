@@ -2,6 +2,7 @@
   title: "Optimising the evaluation and architecture of LLM applications"
   university: Deakin University
   homelink: https://experts.deakin.edu.au/42177-scott-barnett
+  link: https://drive.google.com/file/d/1LL1RnfYrIYpVz5GDav-4OIyjihSFL3jO/view?usp=sharing
 
 - name: Tayana Conte
   title: "Teaching Requirements Engineering for AI: A Goal-Oriented Approach in Software Engineering Courses"
@@ -12,16 +13,19 @@
   title: "Greening AI with Software Engineering - Next Steps"
   university: Delft University of Technology
   homelink: https://luiscruz.github.io/
+  link: https://docs.google.com/presentation/d/1lSsjjOBq_Ww75fsyLc8JSlbg6qwRY45yn4i8RA_On0U/edit?usp=sharing
 
 - name: Vincenzo De Martino
   title: "Teaching Non-Functional Requirements in MLOps in Higher Education through Project-Based Learning"
   university: University of Salerno
   homelink: https://kenz097.github.io/
+  link: https://drive.google.com/file/d/17FWHnyd-KC7HBiV-4sTdJZqhDOnMie72/view?usp=sharing
 
 - name: Daniel Feitosa
   title: "What Technical Debt do developers discuss in ML-enabled Software Products?"
   university: University of Groningen
   homelink: https://feitosa-daniel.github.io/
+  link: https://drive.google.com/file/d/1rr51o36qWqWhm5wfE_hU4lpXYQmKcet_/view?usp=sharing
 
 - name: Bruno Gadelha
   title: "Developing LLM-based systems: an user-centered design approach"
@@ -45,6 +49,7 @@
   title: "Requirements Engineering for Systems with AI/ML: NFRs, Data, and Scoping of Complex Systems"
   university: University of Gothenburg and Chalmers
   homelink: https://www.cs.utoronto.ca/~jenhork/
+  link: https://drive.google.com/file/d/1MEVPHhqCQZ7xcdUfM5Y6L9d698zhFkFJ/view?usp=sharing
 
 - name: Pooyan Jamshidi Dermani
   title: "Reconciling Accuracy, Cost, and Latency of Inference Serving Systems"
@@ -60,11 +65,13 @@
   title: Shaping Practices, Tools, and Norms for Explainable ML-Powered Applications
   university: Carnegie Mellon University
   homelink: https://www.cs.cmu.edu/~ckaestne/
+  link: https://docs.google.com/presentation/d/1KyHKmK0FLOsZxRcZBORNub-APjNn9OIUJtE2mshPaxo/edit?usp=sharing
 
 - name: Nadia Nahar
   title: "Assisting Interdisciplinary Negotiation of Model Requirements"
   university: Carnegie Mellon University
   homelink: https://nadianahar.me/
+  link: https://docs.google.com/presentation/d/1LyOUh16UTXKYhU1bY6FVWtpmTYxSwO3a8MWV1EX1PGw/edit?usp=sharing
 
 - name: Shalaleh Rismani
   title: "System Safety for AI: Modeling Hazards in Machine Learning-Driven Software Systems"
@@ -89,3 +96,4 @@
   title: "Can We Do Better with What We Have Done? Unveiling the Potential of ML Pipeline in Notebooks"
   university: University of Toronto
   homelink: http://www.eecg.toronto.edu/~shuruiz/
+  link: https://drive.google.com/file/d/1FRQmlq8MNEglykkRojJJzJTakIvjAax-/view?usp=sharing

@@ -11,6 +11,8 @@ The meeting is modeled after the [Feature-Oriented Software Development (FOSD)](
 
 **Note:** This meeting is not a publication venue. Participants can present previously published work or work in progress, with an emphasis on fostering discussions and collaborations rather than producing proceedings.
 
+![GroupPicture](assets/img/group_picture.jpg)
+
 ## Scope
 The BTMM focuses on software engineering activities relevant to building software applications with ML components (including LLMs). It adopts a system view, considering the entire system and its environment beyond the model. Both technical and empirical work is welcome. The following topics are in scope:
 
