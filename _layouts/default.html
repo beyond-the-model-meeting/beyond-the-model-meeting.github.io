@@ -9,19 +9,31 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#957878">
     <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 </head>
 <body>
 <section class="page-header" role="banner">
-    <h1 class="project-name">{{ site.title }}</h1>
-    <h2 class="project-tagline">{{ site.subtitle }}</h2>
-    <h1></h1>
+    <h1 class="project-name">{{ page.page_title | default: site.title }}</h1>
+    <h2 class="project-tagline">{{ page.page_subtitle | default: site.subtitle }}</h2>
+    {% assign logo = page.page_logo | default: site.logo %}
+    {% if logo and logo != "" %}
+    <img class="header-logo" src="{{ logo | relative_url }}" alt="Logo" />
+    {% endif %}
     <div class="project-tagline-restrictor">
+
         <a href="#about" class="btn">About</a>
         <a href="#attending--registration" class="btn">Attending & Registration</a>
         <a href="#schedule" class="btn">Schedule</a>
         <a href="#venue--travel-information" class="btn">Venue & Travel Information</a>
         <a href="#contact" class="btn">Contact</a>
+        {% if page.is_archive %}
+        <a href="/" class="btn">BTMM {{ site.current_year }}</a>
+        {% else %}
+        {% for iter in site.data.iterations %}
+        <a href="{{ iter.url }}" class="btn">BTMM {{ iter.year }}</a>
+        {% endfor %}
+        {% endif %}
     </div>
 </section>
 

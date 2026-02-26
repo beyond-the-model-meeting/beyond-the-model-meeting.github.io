@@ -1,9 +1,11 @@
 theme: jekyll-theme-cayman
 markdown: kramdown
 
-title: BTMM 2025
-subtitle: May 4 - 5, 2025, University of Toronto, Toronto, Canada
-description: Welcome to the Web site of the Beyond the Model Meeting 2025.
+current_year: 2026
+title: BTMM 2026
+subtitle: July 10 - 11, 2026, McGill University, Montréal, Canada
+description: Welcome to the Web site of the Beyond the Model Meeting 2026.
+logo: "assets/img/mcgill_logo.png"
 
 repository: beyond-the-model-meeting/beyond-the-model-meeting.github.io
 url: https://beyond-the-model-meeting.github.io
