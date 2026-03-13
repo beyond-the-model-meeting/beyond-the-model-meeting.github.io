@@ -46,7 +46,7 @@ ___
 
 # Attending / Registration
 
-[Abstract Submissions](https://forms.cloud.microsoft/r/asPwU2Z2XJ)
+[Participant Registration](https://forms.cloud.microsoft/r/asPwU2Z2XJ)
 
 We ask all interested participants to submit the form above. You may submit your talk title and abstract now, or we will ask for this information closer to the time of the event.
 
