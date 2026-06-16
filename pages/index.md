@@ -63,7 +63,7 @@ If you cannot make it after all or want to talk about something else, please ema
 <table>
   <tr>
     <th>Name</th>
-    <!-- <th>Title</th> -->
+    <th>Title</th>
     <th>University</th>
   </tr>
   {% for item in site.data.participants %}
@@ -75,13 +75,13 @@ If you cannot make it after all or want to talk about something else, please ema
         {{ item.name }} 
       {% endif %}
     </td>
-    <!-- <td width="60%">
+    <td width="60%">
       {% if item.link %}
         <a href="{{ item.link }}" target="_blank">{{ item.title }} </a>
       {% else %}
         {{ item.title }} 
       {% endif %}
-    </td> -->
+    </td>
     <td width="20%">{{item.university}}</td>
   </tr>
  {% endfor %}
