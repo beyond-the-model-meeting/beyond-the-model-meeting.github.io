@@ -46,7 +46,9 @@ ___
 
 # Attending / Registration
 
-[Participant Registration](https://forms.cloud.microsoft/r/asPwU2Z2XJ)
+Participant registration is now closed! We're excited to meet everyone soon.
+
+<!-- [Participant Registration](https://forms.cloud.microsoft/r/asPwU2Z2XJ)
 
 We ask all interested participants to submit the form above. You may submit your talk title and abstract now, or we will ask for this information closer to the time of the event.
 
@@ -54,7 +56,7 @@ We will accept at most 20 participants. We will usually confirm participation wi
 
 No additional registration is required. If you would be willing to volunteer to sponsor the event by paying an optional registration fee, please contact the organizers.
 
-If you cannot make it after all or want to talk about something else, please email us as soon as possible.
+If you cannot make it after all or want to talk about something else, please email us as soon as possible. -->
 
 ## Participants
 
