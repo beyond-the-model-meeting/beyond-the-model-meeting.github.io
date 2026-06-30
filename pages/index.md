@@ -77,14 +77,14 @@ If you cannot make it after all or want to talk about something else, please ema
         {{ item.name }} 
       {% endif %}
     </td>
-    <td width="60%">
+    <td width="50%">
       {% if item.link %}
         <a href="{{ item.link }}" target="_blank">{{ item.title }} </a>
       {% else %}
         {{ item.title }} 
       {% endif %}
     </td>
-    <td width="20%">{{item.university}}</td>
+    <td width="30%">{{item.university}}</td>
   </tr>
  {% endfor %}
 
